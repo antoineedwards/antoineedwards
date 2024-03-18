@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development and Software Engineering
 - 🌱 I’m currently learning Python, CSS, JavaScript
 - 📫 How to reach me ... edwardsantoine333@gmail.com
+- 📖 "To never try is the ultimate fail"
 
 
 <!---
